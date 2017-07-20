@@ -10,6 +10,7 @@ public class TestJava {
 		System.out.println("Hello again");
 		System.out.println("Test 1");
 		System.out.println("Test 2");
+		System.out.println("Test 4");
 	}
 
 }
